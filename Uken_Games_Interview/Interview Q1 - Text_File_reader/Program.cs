@@ -37,7 +37,7 @@ namespace Interview_Q1_Text_File_reader
 
         static void CalculateFrequency(String filename, List<int> List)
         {
-            // Inserts all elements into a hash.
+            //Inserts all elements into a hash.
             Dictionary<int, int> count = new Dictionary<int, int>();
 
             //Counts frequency by using the key-value pairs
@@ -62,7 +62,6 @@ namespace Interview_Q1_Text_File_reader
                 if (lowestCount >= pair.Value)
                 {                                     
                     lowestCount = pair.Value;
-                    Console.WriteLine(pair.Key + ", " + pair.Value);
                 }
             }
 
@@ -80,7 +79,12 @@ namespace Interview_Q1_Text_File_reader
 
 
         static void Main()
-        {                
+        {
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine("Here are the results: \n\n");
+
+            Console.ForegroundColor = ConsoleColor.Red;
+
             List<int> List1 = ReadFile("1.txt");
                 CalculateFrequency("1.txt", List1);
 
@@ -95,6 +99,9 @@ namespace Interview_Q1_Text_File_reader
 
             List<int> List5 = ReadFile("5.txt");
                 CalculateFrequency("5.txt", List5);
+
+            Console.WriteLine("Press any key to Exit...");
+            Console.ReadKey();
         }        
     }
 }
