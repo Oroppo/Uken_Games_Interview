@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Interview Q1 - Text_File_reader/1.0.0": {
+        "runtime": {
+          "Interview Q1 - Text_File_reader.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interview Q1 - Text_File_reader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+C:\Users\Dante\Desktop\QAEngineerChallenge-master\Interview Q1 - Text_File_reader\Interview Q1 - Text_File_reader\bin\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.exe
+C:\Users\Dante\Desktop\QAEngineerChallenge-master\Interview Q1 - Text_File_reader\Interview Q1 - Text_File_reader\bin\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.deps.json
+C:\Users\Dante\Desktop\QAEngineerChallenge-master\Interview Q1 - Text_File_reader\Interview Q1 - Text_File_reader\bin\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.runtimeconfig.json
+C:\Users\Dante\Desktop\QAEngineerChallenge-master\Interview Q1 - Text_File_reader\Interview Q1 - Text_File_reader\bin\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.runtimeconfig.dev.json
+C:\Users\Dante\Desktop\QAEngineerChallenge-master\Interview Q1 - Text_File_reader\Interview Q1 - Text_File_reader\bin\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.dll
+C:\Users\Dante\Desktop\QAEngineerChallenge-master\Interview Q1 - Text_File_reader\Interview Q1 - Text_File_reader\bin\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.pdb
+C:\Users\Dante\Desktop\QAEngineerChallenge-master\Interview Q1 - Text_File_reader\Interview Q1 - Text_File_reader\obj\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.csproj.AssemblyReference.cache
+C:\Users\Dante\Desktop\QAEngineerChallenge-master\Interview Q1 - Text_File_reader\Interview Q1 - Text_File_reader\obj\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.AssemblyInfoInputs.cache
+C:\Users\Dante\Desktop\QAEngineerChallenge-master\Interview Q1 - Text_File_reader\Interview Q1 - Text_File_reader\obj\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.AssemblyInfo.cs
+C:\Users\Dante\Desktop\QAEngineerChallenge-master\Interview Q1 - Text_File_reader\Interview Q1 - Text_File_reader\obj\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.csproj.CoreCompileInputs.cache
+C:\Users\Dante\Desktop\QAEngineerChallenge-master\Interview Q1 - Text_File_reader\Interview Q1 - Text_File_reader\obj\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.dll
+C:\Users\Dante\Desktop\QAEngineerChallenge-master\Interview Q1 - Text_File_reader\Interview Q1 - Text_File_reader\obj\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.pdb
+C:\Users\Dante\Desktop\QAEngineerChallenge-master\Interview Q1 - Text_File_reader\Interview Q1 - Text_File_reader\obj\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.genruntimeconfig.cache
+C:\Users\Dante\Desktop\Uken_Games_Interview\Interview Q1 - Text_File_reader\bin\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.exe
+C:\Users\Dante\Desktop\Uken_Games_Interview\Interview Q1 - Text_File_reader\bin\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.deps.json
+C:\Users\Dante\Desktop\Uken_Games_Interview\Interview Q1 - Text_File_reader\bin\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.runtimeconfig.json
+C:\Users\Dante\Desktop\Uken_Games_Interview\Interview Q1 - Text_File_reader\bin\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.runtimeconfig.dev.json
+C:\Users\Dante\Desktop\Uken_Games_Interview\Interview Q1 - Text_File_reader\bin\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.dll
+C:\Users\Dante\Desktop\Uken_Games_Interview\Interview Q1 - Text_File_reader\bin\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.pdb
+C:\Users\Dante\Desktop\Uken_Games_Interview\Interview Q1 - Text_File_reader\obj\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.csproj.AssemblyReference.cache
+C:\Users\Dante\Desktop\Uken_Games_Interview\Interview Q1 - Text_File_reader\obj\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.AssemblyInfoInputs.cache
+C:\Users\Dante\Desktop\Uken_Games_Interview\Interview Q1 - Text_File_reader\obj\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.AssemblyInfo.cs
+C:\Users\Dante\Desktop\Uken_Games_Interview\Interview Q1 - Text_File_reader\obj\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.csproj.CoreCompileInputs.cache
+C:\Users\Dante\Desktop\Uken_Games_Interview\Interview Q1 - Text_File_reader\obj\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.dll
+C:\Users\Dante\Desktop\Uken_Games_Interview\Interview Q1 - Text_File_reader\obj\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.pdb
+C:\Users\Dante\Desktop\Uken_Games_Interview\Interview Q1 - Text_File_reader\obj\Debug\netcoreapp3.1\Interview Q1 - Text_File_reader.genruntimeconfig.cache
