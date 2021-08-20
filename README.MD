@@ -1,4 +1,4 @@
-**A short Project to comply with an Interview for Uken Games. Written in C#**
+# A short Project to comply with an Interview for Uken Games. Written in C#
 
 *The main purpose of the project is to find the least frequent number in a given dataset of n terms from a formatted text file. If there is a collision, the lowest number sharing the same frequency is reported instead.*
 
@@ -20,4 +20,4 @@ Alternatively, if you'd like to search from another directory, simply specify th
 ```@"C:\\Your_Target_Folder"```
 
 
-#####Please note: I haven't deleted the garbage files from the project yet, so there's a fair bit of bloat here.
+##### Please note: I haven't deleted the garbage files from the project yet, so there's a fair bit of bloat here.
